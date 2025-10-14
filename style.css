@@ -335,10 +335,9 @@
   }
 }  /* ← this closes @keyframes floatAnimate */
 
-/* === Brittany font + top heading (non-invasive) === */
 @font-face{
   font-family: "Brittany";
-  src: url("fonts/Brittany.ttf") format("truetype");
+  src: url("fonts/BrittanySignature.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
